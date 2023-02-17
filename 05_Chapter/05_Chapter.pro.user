@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.3.1, 2023-02-11T17:10:58. -->
+<!-- Written by QtCreator 4.3.1, 2023-02-14T09:18:19. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -64,9 +64,9 @@
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.59.gcc_64_kit</value>
    <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
-   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">10</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">5</value>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-04_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -182,15 +182,15 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">feof_operation</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">access_operation</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/04_Chapter/feof_operation/feof_operation.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/access_operation/access_operation.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">feof_operation/feof_operation.pro</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">access_operation/access_operation.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-04_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/feof_operation</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/access_operation</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
@@ -240,15 +240,15 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">fread_operation</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">chmod_operation</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/04_Chapter/fread_operation/fread_operation.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/chmod_operation/chmod_operation.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">fread_operation/fread_operation.pro</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">chmod_operation/chmod_operation.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-04_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/fread_operation</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/chmod_operation</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
@@ -298,15 +298,189 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">fdopen_fileno_operation</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">umask_operation</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/04_Chapter/fdopen_fileno_operation/fdopen_fileno_operation.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/umask_operation/umask_operation.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">fdopen_fileno_operation/fdopen_fileno_operation.pro</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">umask_operation/umask_operation.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-04_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/fdopen_fileno_operation</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/umask_operation</value>
+    <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseMultiProcess">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.11">
+    <value type="bool" key="Analyzer.QmlProfiler.AggregateTraces">false</value>
+    <value type="bool" key="Analyzer.QmlProfiler.FlushEnabled">false</value>
+    <value type="uint" key="Analyzer.QmlProfiler.FlushInterval">1000</value>
+    <value type="QString" key="Analyzer.QmlProfiler.LastTraceFile"></value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="Analyzer.Valgrind.AddedSuppressionFiles"/>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.CollectBusEvents">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.CollectSystime">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableBranchSim">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableCacheSim">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableEventToolTips">true</value>
+    <value type="double" key="Analyzer.Valgrind.Callgrind.MinimumCostRatio">0.01</value>
+    <value type="double" key="Analyzer.Valgrind.Callgrind.VisualisationMinimumCostRatio">10</value>
+    <value type="bool" key="Analyzer.Valgrind.FilterExternalIssues">true</value>
+    <value type="int" key="Analyzer.Valgrind.LeakCheckOnFinish">1</value>
+    <value type="int" key="Analyzer.Valgrind.NumCallers">25</value>
+    <valuelist type="QVariantList" key="Analyzer.Valgrind.RemovedSuppressionFiles"/>
+    <value type="int" key="Analyzer.Valgrind.SelfModifyingCodeDetection">1</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.ShowReachable">false</value>
+    <value type="bool" key="Analyzer.Valgrind.TrackOrigins">true</value>
+    <value type="QString" key="Analyzer.Valgrind.ValgrindExecutable">valgrind</value>
+    <valuelist type="QVariantList" key="Analyzer.Valgrind.VisibleErrorKinds">
+     <value type="int">0</value>
+     <value type="int">1</value>
+     <value type="int">2</value>
+     <value type="int">3</value>
+     <value type="int">4</value>
+     <value type="int">5</value>
+     <value type="int">6</value>
+     <value type="int">7</value>
+     <value type="int">8</value>
+     <value type="int">9</value>
+     <value type="int">10</value>
+     <value type="int">11</value>
+     <value type="int">12</value>
+     <value type="int">13</value>
+     <value type="int">14</value>
+    </valuelist>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">utime_operation</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/utime_operation/utime_operation.pro</value>
+    <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">utime_operation/utime_operation.pro</value>
+    <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/utime_operation</value>
+    <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseMultiProcess">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.12">
+    <value type="bool" key="Analyzer.QmlProfiler.AggregateTraces">false</value>
+    <value type="bool" key="Analyzer.QmlProfiler.FlushEnabled">false</value>
+    <value type="uint" key="Analyzer.QmlProfiler.FlushInterval">1000</value>
+    <value type="QString" key="Analyzer.QmlProfiler.LastTraceFile"></value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="Analyzer.Valgrind.AddedSuppressionFiles"/>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.CollectBusEvents">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.CollectSystime">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableBranchSim">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableCacheSim">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableEventToolTips">true</value>
+    <value type="double" key="Analyzer.Valgrind.Callgrind.MinimumCostRatio">0.01</value>
+    <value type="double" key="Analyzer.Valgrind.Callgrind.VisualisationMinimumCostRatio">10</value>
+    <value type="bool" key="Analyzer.Valgrind.FilterExternalIssues">true</value>
+    <value type="int" key="Analyzer.Valgrind.LeakCheckOnFinish">1</value>
+    <value type="int" key="Analyzer.Valgrind.NumCallers">25</value>
+    <valuelist type="QVariantList" key="Analyzer.Valgrind.RemovedSuppressionFiles"/>
+    <value type="int" key="Analyzer.Valgrind.SelfModifyingCodeDetection">1</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.ShowReachable">false</value>
+    <value type="bool" key="Analyzer.Valgrind.TrackOrigins">true</value>
+    <value type="QString" key="Analyzer.Valgrind.ValgrindExecutable">valgrind</value>
+    <valuelist type="QVariantList" key="Analyzer.Valgrind.VisibleErrorKinds">
+     <value type="int">0</value>
+     <value type="int">1</value>
+     <value type="int">2</value>
+     <value type="int">3</value>
+     <value type="int">4</value>
+     <value type="int">5</value>
+     <value type="int">6</value>
+     <value type="int">7</value>
+     <value type="int">8</value>
+     <value type="int">9</value>
+     <value type="int">10</value>
+     <value type="int">11</value>
+     <value type="int">12</value>
+     <value type="int">13</value>
+     <value type="int">14</value>
+    </valuelist>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">utimes_operation</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/utimes_operation/utimes_operation.pro</value>
+    <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">utimes_operation/utimes_operation.pro</value>
+    <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/utimes_operation</value>
+    <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseMultiProcess">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.13">
+    <value type="bool" key="Analyzer.QmlProfiler.AggregateTraces">false</value>
+    <value type="bool" key="Analyzer.QmlProfiler.FlushEnabled">false</value>
+    <value type="uint" key="Analyzer.QmlProfiler.FlushInterval">1000</value>
+    <value type="QString" key="Analyzer.QmlProfiler.LastTraceFile"></value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="Analyzer.Valgrind.AddedSuppressionFiles"/>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.CollectBusEvents">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.CollectSystime">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableBranchSim">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableCacheSim">false</value>
+    <value type="bool" key="Analyzer.Valgrind.Callgrind.EnableEventToolTips">true</value>
+    <value type="double" key="Analyzer.Valgrind.Callgrind.MinimumCostRatio">0.01</value>
+    <value type="double" key="Analyzer.Valgrind.Callgrind.VisualisationMinimumCostRatio">10</value>
+    <value type="bool" key="Analyzer.Valgrind.FilterExternalIssues">true</value>
+    <value type="int" key="Analyzer.Valgrind.LeakCheckOnFinish">1</value>
+    <value type="int" key="Analyzer.Valgrind.NumCallers">25</value>
+    <valuelist type="QVariantList" key="Analyzer.Valgrind.RemovedSuppressionFiles"/>
+    <value type="int" key="Analyzer.Valgrind.SelfModifyingCodeDetection">1</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.ShowReachable">false</value>
+    <value type="bool" key="Analyzer.Valgrind.TrackOrigins">true</value>
+    <value type="QString" key="Analyzer.Valgrind.ValgrindExecutable">valgrind</value>
+    <valuelist type="QVariantList" key="Analyzer.Valgrind.VisibleErrorKinds">
+     <value type="int">0</value>
+     <value type="int">1</value>
+     <value type="int">2</value>
+     <value type="int">3</value>
+     <value type="int">4</value>
+     <value type="int">5</value>
+     <value type="int">6</value>
+     <value type="int">7</value>
+     <value type="int">8</value>
+     <value type="int">9</value>
+     <value type="int">10</value>
+     <value type="int">11</value>
+     <value type="int">12</value>
+     <value type="int">13</value>
+     <value type="int">14</value>
+    </valuelist>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">opendir_readdir_closedir</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/opendir_readdir_closedir/opendir_readdir_closedir.pro</value>
+    <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">opendir_readdir_closedir/opendir_readdir_closedir.pro</value>
+    <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/opendir_readdir_closedir</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
@@ -356,15 +530,15 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">fseek_operation</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">chown_operation</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/04_Chapter/fseek_operation/fseek_operation.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/chown_operation/chown_operation.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">fseek_operation/fseek_operation.pro</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">chown_operation/chown_operation.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-04_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/fseek_operation</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/chown_operation</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
@@ -414,15 +588,15 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">ftell_operation</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">fstat_operation</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/04_Chapter/ftell_operation/ftell_operation.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/fstat_operation/fstat_operation.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">ftell_operation/ftell_operation.pro</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">fstat_operation/fstat_operation.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-04_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/ftell_operation</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/fstat_operation</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
@@ -472,15 +646,15 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">fwrite_operation</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">link_symlink_operation</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/04_Chapter/fwrite_operation/fwrite_operation.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/link_symlink_operation/link_symlink_operation.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">fwrite_operation/fwrite_operation.pro</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">link_symlink_operation/link_symlink_operation.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-04_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/fwrite_operation</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/link_symlink_operation</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
@@ -530,15 +704,15 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">printf_fprintf_dprintf_sprintf_snprintf_operation</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">mkdir_rmdir_operation</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/04_Chapter/printf_fprintf_dprintf_sprintf_snprintf_operation/printf_fprintf_dprintf_sprintf_snprintf_operation.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/mkdir_rmdir_operation/mkdir_rmdir_operation.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">printf_fprintf_dprintf_sprintf_snprintf_operation/printf_fprintf_dprintf_sprintf_snprintf_operation.pro</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">mkdir_rmdir_operation/mkdir_rmdir_operation.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-04_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/printf_fprintf_dprintf_sprintf_snprintf_operation</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/mkdir_rmdir_operation</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
@@ -588,15 +762,15 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">scanf_fscanf_sscanf</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">readlink_operation</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/04_Chapter/scanf_fscanf_sscanf/scanf_fscanf_sscanf.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/readlink_operation/readlink_operation.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">scanf_fscanf_sscanf/scanf_fscanf_sscanf.pro</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">readlink_operation/readlink_operation.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-04_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/scanf_fscanf_sscanf</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/readlink_operation</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
@@ -646,15 +820,15 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">fsync_fdatasync_sync_operation</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">stat_operation_1</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/04_Chapter/fsync_fdatasync_sync_operation/fsync_fdatasync_sync_operation.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/stat_operation_1/stat_operation_1.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">fsync_fdatasync_sync_operation/fsync_fdatasync_sync_operation.pro</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">stat_operation_1/stat_operation_1.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-04_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/fsync_fdatasync_sync_operation</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/stat_operation_1</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
@@ -704,15 +878,15 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">direct_io</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">stat_operation_2</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/04_Chapter/direct_io/direct_io.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/stat_operation_2/stat_operation_2.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">direct_io/direct_io.pro</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">stat_operation_2/stat_operation_2.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-04_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/direct_io</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/stat_operation_2</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
@@ -762,15 +936,15 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">setvbuf_setbuf_setbuffer</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">stat_operation_3</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/04_Chapter/setvbuf_setbuf_setbuffer/setvbuf_setbuf_setbuffer.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/05_Chapter/stat_operation_3/stat_operation_3.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">setvbuf_setbuf_setbuffer/setvbuf_setbuf_setbuffer.pro</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">stat_operation_3/stat_operation_3.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-04_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/setvbuf_setbuf_setbuffer</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/media/sf_CodeLee/C_Linux_ZhengDianYuanZi/build-05_Chapter-Desktop_Qt_5_9_0_GCC_64bit-Debug/stat_operation_3</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
@@ -778,7 +952,7 @@
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
    </valuemap>
-   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">11</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">14</value>
   </valuemap>
  </data>
  <data>
