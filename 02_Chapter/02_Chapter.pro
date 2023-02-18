@@ -1,7 +1,7 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-    file_operation \
-    file_operation_2 \
-    file_operation_3 \
-    file_operation_4
+    02_file_operation \
+    02_file_operation_2 \
+    02_file_operation_3 \
+    02_file_operation_4
