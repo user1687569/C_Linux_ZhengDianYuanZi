@@ -18,5 +18,6 @@ int main()
     printf("strtol: %ld\n", strtol("100", NULL, 9));
     printf("strtol: %ld\n", strtol("1zz", NULL, 36));
 
+    getchar();
     return 0;
 }

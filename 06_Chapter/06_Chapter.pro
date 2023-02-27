@@ -18,4 +18,5 @@ SUBDIRS += \
     06_regex_operation_1 \
     06_regex_operation_2 \
     06_strdup_strndup_operation \
-    06_strtok_operation
+    06_strtok_operation \
+    06_strtok_r_operation
