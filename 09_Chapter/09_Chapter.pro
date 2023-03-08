@@ -9,4 +9,15 @@ SUBDIRS += \
     09_fork_operation \
     09_fork_operation_2 \
     09_fork_operation_3 \
-    09_CR_LF_operation
+    09_CR_LF_operation \
+    09_wait_operation \
+    09_waitpid_operation \
+    09_orphan_process_operation \
+    09_zombie_process_operation \
+    09_SIGCHLD_operation \
+    09_md5_operation \
+    09_execve_operation \
+    09_getopt_operation \
+    09_execl_execv_operation \
+    09_execlp_execvp_operation \
+    09_system_operation
